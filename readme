@@ -1,0 +1,1 @@
+OLA fare predictor predicts the price based on the distance. It performs the data cleaning followed by a prediction using a simple linear regresssion model
